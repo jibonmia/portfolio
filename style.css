@@ -1,0 +1,50 @@
+body{
+    background-color:  #f3f1ff;
+}
+.brand-logo{
+    width: 40.42px;
+    height: 51px;
+}
+.profile{
+    width: 51px;
+    height: 51px;
+    padding: 5px;
+}
+.item{
+    margin-top: 12px;
+}
+.navbar{
+    width: 1440px;
+    padding-right: 285px;
+    padding-left: 285px;
+}
+.main-item{
+    width: 870px;
+    height: 679px;
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    margin-right: 285px;
+    margin-left: 285px;
+}
+h3{
+    color: #562EFF;
+    padding: 10px;
+}
+.palyers{
+    width: 56px;
+    height: 56px;
+}
+h5{
+    margin-top: 15px;
+}
+.col-sm{
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    margin-left: 35px;
+    gap: 10px;
+}
+hr{
+    width: 807px;
+    color: gray;
+}
