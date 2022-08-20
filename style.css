@@ -1,6 +1,7 @@
 body{
     background-color:  #f3f1ff;
 }
+/* navbar */
 .brand-logo{
     width: 40.42px;
     height: 51px;
@@ -18,11 +19,12 @@ body{
     padding-right: 285px;
     padding-left: 285px;
 }
+/* main players */
 .main-item{
     width: 870px;
-    height: 679px;
+    height: 750px;
     background-color: #FFFFFF;
-    margin-top: 50px;
+    margin-top: 30px;
     margin-right: 285px;
     margin-left: 285px;
 }
@@ -48,3 +50,26 @@ hr{
     width: 807px;
     color: gray;
 }
+/* main card */
+.card{
+    width: 392px;
+    display: flex;
+    flex-direction: row;
+}
+.card-img-top{
+    width: 177px;
+    height: 177px;
+}
+.card-body{
+    width: 190px;
+    height: 177px;
+}
+.card-side{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+    padding-left:20px ;
+    padding-right: 20px;
+}
+
