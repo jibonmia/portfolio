@@ -72,4 +72,22 @@ hr{
     padding-left:20px ;
     padding-right: 20px;
 }
-
+/* footer */
+.footer-item{
+    width: 870px;
+    height: 362px;
+    background-color: #FFFFFF;
+    margin-top: 30px;
+    margin-right: 285px;
+    margin-left: 285px;
+}
+.footer-img{
+    width: 253px;
+    height: ;
+}
+.card-body{
+    width: 253px;
+}
+.card-body p{
+    color: red;
+}
